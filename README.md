@@ -14,3 +14,11 @@ AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
+
+
+## ScreenShots
+![home screen note taker app](./Assets/img/note-taker-home.png)
+![couple of made notes](./Assets/img/notes.png)
+
+## Deployed site
+https://jzamorano-note-taker.herokuapp.com/
