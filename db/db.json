@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Test note","text":"hope it works!","id":"ea75a13e-21b0-4324-b212-cc2f1509fbdc"},{"title":"Heroku coming soon","text":"waiting to get it launched on herkou\n","id":"cc0b9b5e-09ac-453a-8443-4bf7e5b5b6f1"}]
